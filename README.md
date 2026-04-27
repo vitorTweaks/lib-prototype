@@ -65,8 +65,8 @@ cli.js: responsável pela interface de linha de comando
 index.js: contém a lógica de contagem de palavras
 helpers.js: responsável pela formatação da saída
 erros/: tratamento de erros
-Objetivo do projeto
 ```
+**Objetivo do projeto**
 
 Este projeto foi desenvolvido com o objetivo de praticar:
 
